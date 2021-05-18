@@ -1,0 +1,5 @@
+Instructions. 
+•Open unreal engine 
+•Create a new c++ actor class
+•copy and paste the.h and.cpp file into the.h and.cpp file of the newly created actor. 
+• Replace all mentions of “themeshspawnee” with the name of your actor.
